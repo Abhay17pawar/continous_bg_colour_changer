@@ -1,0 +1,21 @@
+#btn2 {
+    width: 90px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#btn1 {
+    width: 90px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 320px;
+    gap: 10px;
+}
